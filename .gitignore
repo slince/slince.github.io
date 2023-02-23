@@ -1,3 +1,5 @@
 vendor
 .git
 output_dev
+node_modules
+.idea
